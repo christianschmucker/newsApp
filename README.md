@@ -7,7 +7,7 @@ The articles are displayed within the app with flutter's <a href="https://pub.de
 
 - Go to <a href="https://newsapi.org/">News API</a>.
 - Create an account and retrieve your api key.
-- Replace the String myApiKey in the lib/apiKey.dart with your own Key and your good to go.
+- Replace the string myApiKey in the lib/apiKey.dart with your own key and you're good to go.
 
 <img align="left" float="right" src="https://i.imgur.com/6aJlpI1.jpg" width="45%">
 <img align="right" float="left" src="https://i.imgur.com/Pv5vUms.jpg" width="45%">
