@@ -11,3 +11,6 @@ The articles are displayed within the app with flutter's <a href="https://pub.de
 
 <img align="left" float="right" src="https://i.imgur.com/6aJlpI1.jpg" width="45%">
 <img align="right" float="left" src="https://i.imgur.com/Pv5vUms.jpg" width="45%">
+
+### Disclaimer
+This app isn't ready for release and should only be used for private purposes.
