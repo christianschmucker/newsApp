@@ -4,4 +4,4 @@ A new Flutter application.
 
 ## Getting Started
 
-![alt text](https://imgur.com/a/aRGUnlQ)
+![alt text](https://i.imgur.com/6aJlpI1.jpg)
