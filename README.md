@@ -5,7 +5,7 @@ The articles are displayed within the app with flutter's <a href="https://pub.de
 
 ## Getting Started
 
-- Go to <a href="https://newsapi.org/">News API</a> to fetch data.
+- Go to <a href="https://newsapi.org/">News API</a>.
 - Create an account and retrieve your api key.
 - Replace the String myApiKey in the lib/apiKey.dart with your own Key and your good to go.
 
