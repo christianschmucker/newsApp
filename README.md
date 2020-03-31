@@ -1,6 +1,7 @@
 # dotnews
 
 A simple German news app written in Flutter, which uses the <a href="https://newsapi.org/">News API</a> to fetch data. 
+The articles are displayed within the app with flutter's <a href="https://pub.dev/packages/webview_flutter">webview</a>. 
 
 ## Getting Started
 
