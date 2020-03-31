@@ -80,8 +80,7 @@ class _DotsState extends State<Dots> {
         crossAxisAlignment: CrossAxisAlignment.center,
         children: <Widget>[
           CarouselSlider(
-            height: 550.0,
-            initialPage: 0,
+            height: MediaQuery.of(context).size.height*0.65,
             viewportFraction: 0.9,
             enlargeCenterPage: true,
             enableInfiniteScroll: false,
