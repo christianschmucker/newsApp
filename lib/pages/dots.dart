@@ -62,7 +62,7 @@ class _DotsState extends State<Dots> {
 
       //sort the items by time
       data.sort((a, b){
-        return (a["publishedAt"]).compareTo(b["publishedAt"]);
+        return (a["publishedAt"].toString()).compareTo(b["publishedAt"].toString());
       });
     }
   }
